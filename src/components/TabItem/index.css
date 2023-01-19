@@ -1,0 +1,9 @@
+.tab-item {
+  padding: 20px;
+  color: #fff;
+}
+.tab-heading {
+  font-size: 24px;
+  font-weight: 500;
+  cursor: pointer;
+}
